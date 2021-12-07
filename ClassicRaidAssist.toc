@@ -1,4 +1,4 @@
-## Interface: 11303
+## Interface: 20502
 ## Title: ClassicRaidAssist
 ## Notes: A tool to help classic wow raids
 ## Author: Zanzabarr
